@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Indian Rupee ( INR )",
+        "withdraw_fee": 10.0,
+        "min_depositamount": 100.0,
+        "min_withdrawamount": 100.0,
+        "confirmation": ""
+    },
+    {
+        "name": "Tether ( USDT )",
+        "withdraw_fee": 20.0,
+        "min_depositamount": 1.0,
+        "min_withdrawamount": 22.0,
+        "confirmation": "6"
+    },
+    {
+        "name": "Bitcoin ( BTC )",
+        "withdraw_fee": 0.0005,
+        "min_depositamount": 0.0002,
+        "min_withdrawamount": 0.0006,
+        "confirmation": "3"
+    },
+    {
+        "name": "Ethereum ( ETH )",
+        "withdraw_fee": 0.001,
+        "min_depositamount": 0.002,
+        "min_withdrawamount": 0.002,
+        "confirmation": "6"
+    },
+    {
+        "name": "Binance coin ( BNB )",
+        "withdraw_fee": 0.01,
+        "min_depositamount": 0.02,
+        "min_withdrawamount": 0.02,
+        "confirmation": "12"
+    },
+    {
+        "name": "Litecoin ( LTC )",
+        "withdraw_fee": 0.05,
+        "min_depositamount": 0.001,
+        "min_withdrawamount": 0.06,
+        "confirmation": "12"
+    },
+    {
+        "name": "Solana ( SOL )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Shiba Inu ( SHIB )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Dogecoin ( DOGE )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Cardano ( ADA )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "BitcoinCash ( BCH )",
+        "withdraw_fee": 0.00001,
+        "min_depositamount": 0.0001,
+        "min_withdrawamount": 0.0001,
+        "confirmation": "3"
+    },
+    {
+        "name": "Ripple ( XRP )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Tron ( TRX )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Polkadot ( DOT )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Terra ( LUNA )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Steller ( XLM )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Binance USD ( BUSD )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Uniswap (ERC20) ( UNI )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Matic Token ( MATIC )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "FTX Token ( FTT )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Avalanche ( AVAX )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Near ( NEAR )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "ChainLink Token ( LINK )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Algorand ( ALGO )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Cosmos ( ATOM )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Fantom ( FTM )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Sandbox ( SAND )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Decentraland ( MANA )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "SushiSwap ( SUSHI )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    },
+    {
+        "name": "Gala ( GALA )",
+        "withdraw_fee": 0.0,
+        "min_depositamount": 0.0,
+        "min_withdrawamount": 0.0,
+        "confirmation": "1"
+    }
+]

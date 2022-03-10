@@ -1,0 +1,443 @@
+[
+    {
+        "market": "BTC/USDT",
+        "minimum_ordersize": 0.00005,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "BTC/INR",
+        "minimum_ordersize": 0.00005,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "ETH/USDT",
+        "minimum_ordersize": 0.001,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "ETH/INR",
+        "minimum_ordersize": 0.001,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "ETH/BTC",
+        "minimum_ordersize": 0.001,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "LTC/USDT",
+        "minimum_ordersize": 0.01,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "USDT/INR",
+        "minimum_ordersize": 1.5,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "LTC/INR",
+        "minimum_ordersize": 0.01,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "SHIB/INR",
+        "minimum_ordersize": 50000,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "SHIB/USDT",
+        "minimum_ordersize": 50000,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "DOGE/INR",
+        "minimum_ordersize": 10,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "DOGE/USDT",
+        "minimum_ordersize": 10,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "SOL/INR",
+        "minimum_ordersize": 0.015,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "SOL/USDT",
+        "minimum_ordersize": 0.015,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "ADA/INR",
+        "minimum_ordersize": 1,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "ADA/USDT",
+        "minimum_ordersize": 1,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "ADA/BTC",
+        "minimum_ordersize": 10,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "LTC/BTC",
+        "minimum_ordersize": 0.01,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "XRP/INR",
+        "minimum_ordersize": 2,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "XRP/USDT",
+        "minimum_ordersize": 4,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "XRP/BTC",
+        "minimum_ordersize": 8,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "TRX/INR",
+        "minimum_ordersize": 20,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "TRX/USDT",
+        "minimum_ordersize": 40,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "DOT/INR",
+        "minimum_ordersize": 0.05,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "DOT/USDT",
+        "minimum_ordersize": 0.1,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "LUNA/INR",
+        "minimum_ordersize": 0.06,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "LUNA/INR",
+        "minimum_ordersize": 0.1,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "XLM/INR",
+        "minimum_ordersize": 6,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "XLM/USDT",
+        "minimum_ordersize": 10,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "BNB/INR",
+        "minimum_ordersize": 0.005,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "BNB/USDT",
+        "minimum_ordersize": 0.008,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "BNB/BTC",
+        "minimum_ordersize": 0.025,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "BUSD/INR",
+        "minimum_ordersize": 2,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "BUSD/USDT",
+        "minimum_ordersize": 4,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "UNI/INR",
+        "minimum_ordersize": 0.08,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "UNI/USDT",
+        "minimum_ordersize": 0.15,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "MATIC/INR",
+        "minimum_ordersize": 1.5,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "MATIC/USDT",
+        "minimum_ordersize": 3,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "MATIC/BTC",
+        "minimum_ordersize": 8,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "FTT/INR",
+        "minimum_ordersize": 0.04,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "FTT/USDT",
+        "minimum_ordersize": 0.07,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "AVAX/INR",
+        "minimum_ordersize": 0.02,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "AVAX/USDT",
+        "minimum_ordersize": 0.05,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "NEAR/INR",
+        "minimum_ordersize": 0.06,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "NEAR/USDT",
+        "minimum_ordersize": 0.22,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "LINK/INR",
+        "minimum_ordersize": 0.06,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "LINK/USDT",
+        "minimum_ordersize": 0.18,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "ALGO/INR",
+        "minimum_ordersize": 1,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "ALGO/USDT",
+        "minimum_ordersize": 3,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "ATOM/INR",
+        "minimum_ordersize": 0.1,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "ATOM/USDT",
+        "minimum_ordersize": 0.1,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "FTM/INR",
+        "minimum_ordersize": 0.4,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "FTM/USDT",
+        "minimum_ordersize": 1.3,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "BCH/INR",
+        "minimum_ordersize": 0.004,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "BCH/USDT",
+        "minimum_ordersize": 0.01,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "SAND/INRc",
+        "minimum_ordersize": 1,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "SAND/USDT",
+        "minimum_ordersize": 1,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "MANA/USDT",
+        "minimum_ordersize": 1.2,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "MANA/INR",
+        "minimum_ordersize": 39,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "GALA/INR",
+        "minimum_ordersize": 0.4,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "GALA/USDT",
+        "minimum_ordersize": 4,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "SUSHI/INR",
+        "minimum_ordersize": 10,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    },
+    {
+        "market": "SUSHI/USDT",
+        "minimum_ordersize": 0.3,
+        "maker_fee": " 0.125%",
+        "taker_fee": " 0.125%",
+        "status": "Enabled"
+    }
+]
